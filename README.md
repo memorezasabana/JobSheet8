@@ -9,8 +9,8 @@ Pada program tersebut juga tidak muncul hasil karena menginputkan a=1 dan proses
 ![Alt Text](https://github.com/memorezasabana/JobSheet8/blob/master/3.png)
 Pada program ini mengapa hanya muncul a saja, karena program ini termasuk do while di mana syarat dicek di bagian akhir. karena pada program tersebut input data tidak memenuhi syarat maka tidak keluar atau mucul hasil
 # Tugas Praktikum
-![Alt Text](https://github.com/memorezasabana/JobSheet8/blob/master/2019-09-05%20(3).png)
+![Alt Text](https://github.com/memorezasabana/JobSheet8/blob/master/2019-09-05.png)
 Program ini terdapat kode break, nah penggunaan kode break ini adalah membatasi pengulangan for hingga bilangan yang ditentukan
 # Tugas02
-![Alt Text](https://github.com/memorezasabana/JobSheet8/blob/master/2019-09-05.png)
+![Alt Text](https://github.com/memorezasabana/JobSheet8/blob/master/2019-09-05%20(3).png)
 Berbeda halnya dengan tugas praktikum, pada tugas02 ini menggunakan kode continue, arti atau fungsi penggunaan kode tersebut adalah melanjutkan terus bilangan yang diinputkan untuk proses for hingga bilangan akhir yang ditentukan 
